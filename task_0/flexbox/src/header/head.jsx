@@ -21,22 +21,22 @@ export default class Heading extends Component {
                                 <li className="nav-item">
                                     <a href="#" className="nav-link">Home</a>
                                 </li>
-                                <li className="nav-item">
+                                <li className="nav-item section-services">
                                     <a href="#services" className="nav-link">Services</a>
                                 </li>
-                                <li className="nav-item">
+                                <li className="nav-item section-works">
                                     <a href="#works" className="nav-link">Works</a>
                                 </li>
-                                <li className="nav-item">
+                                <li className="nav-item section-about-us">
                                     <a href="#about" className="nav-link">About</a>
                                 </li>
-                                <li className="nav-item">
+                                <li className="nav-item section-latest-news">
                                     <a href="#latest_news" className="nav-link">Latest news</a>
                                 </li>
-                                <li className="nav-item">
+                                <li className="nav-item section-testimonial">
                                     <a href="#testimonials" className="nav-link">Testimonials</a>
                                 </li>
-                                <li className="nav-item">
+                                <li className="nav-item section-contact">
                                     <a href="#contact" className="nav-link">Contact</a>
                                 </li>
                             </ul>
