@@ -2,6 +2,7 @@
 
 `CSS` `Front-end` `SASS`
 |By: Guillaume, CTO at Holberton School|
+|:--|
 |Weight: 1|
 |Project will start Feb 13, 2023 6:00 AM, must end by Feb 20, 2023 6:00 AM|
 |Checker was released at Feb 15, 2023 12:00 AM|
