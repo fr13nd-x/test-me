@@ -11,7 +11,8 @@
 
 body {
     @include body-margin;
-    div {
-        @include div-margin;
-    }
+}
+
+div {
+    @include div-margin;
 }
